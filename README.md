@@ -11,5 +11,5 @@ Getting and Cleaning data project
 
 4) invoke the main function run.analysis() 
 
-5) it will automatically download the sammsung data and converts in to tidy data 
+5) it will automatically download the samsung data and converts in to tidy data 
 
